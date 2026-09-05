@@ -1,0 +1,36 @@
+{
+  "vods": {
+    "/vods/2026-09-02.3885": {
+      "twitch_chat": "chats/2026-09-02-twitch.json",
+      "kick_chat": "chats/2026-09-02-kick.json",
+      "twitch_offset": "2:25:56",
+      "emotes": {
+        "gachiGASM": "https://cdn.7tv.app/emote/01F9EM2ETG000E7SC8F953GXCX/1x.webp",
+        "glorp": "https://cdn.7tv.app/emote/01H16FA16G0005EZED5J0EY7KN/1x.webp",
+        "7Cinema": "https://cdn.7tv.app/emote/01GBFDVP18000CRDCG0DV7KEMY/1x.webp",
+        "peepoSad": "https://cdn.7tv.app/emote/01GAZ4SBX80007YCE2RXBT44B2/1x.webp",
+        "FeelsOkayMan": "https://cdn.7tv.app/emote/01GB46137R000BJ5HR8F6XV8J1/1x.webp",
+        "Clap2": "https://cdn.7tv.app/emote/01GB2TN09G000AZXHZ8HNEZX6G/1x.webp",
+        "ppL": "https://cdn.7tv.app/emote/01GGD5PJA8000FH13S498E9D8X/1x.webp",
+        "RareParrot": "https://cdn.7tv.app/emote/01GB4XE3ZR000DKFRGM9Q1M7VS/1x.webp",
+        "AYAYA": "https://cdn.7tv.app/emote/01GB32XE6R00018VJGJ4A9BNCV/1x.webp",
+        "Clap": "https://cdn.7tv.app/emote/01GAM8EFQ00004MXFXAJYKA859/1x.webp",
+        "TeaTime": "https://cdn.7tv.app/emote/01HM4P26CR000449DZBT4FVMA5/1x.webp",
+        "PianoTime": "https://cdn.7tv.app/emote/01G98V81Q80000BRQD106P0ZEK/1x.webp",
+        "PETPET": "https://cdn.7tv.app/emote/01FE3XY508000AA32JP519W2EW/1x.webp",
+        "forsenPls": "https://cdn.7tv.app/emote/01GB8EQNJ8000497KFBZWNSDFZ/1x.webp",
+        "EZ": "https://cdn.7tv.app/emote/01GB4CK01800090V9B3D8CGEEX/1x.webp",
+        "WAYTOODANK": "https://cdn.7tv.app/emote/01G98W833R0000BRQD106P0ZNT/1x.webp",
+        "Gayge": "https://cdn.7tv.app/emote/01G4GQC5H0000D3DGNAYJJP8EB/1x.webp",
+        "Stare": "https://cdn.7tv.app/emote/01GG3YGWK8000DWE419062SG28/1x.webp",
+        "gachiBASS": "https://cdn.7tv.app/emote/01GB4P2HX0000BJ5HR8F6XV9Q0/1x.webp",
+        "xdx": "https://cdn.7tv.app/emote/01FZBTBQDG000DX0N9GHCRXYPH/1x.webp",
+        "BillyApprove": "https://cdn.7tv.app/emote/01GB2S7H7000018VJGJ4A9BMFS/1x.webp",
+        "peepoHappy": "https://cdn.7tv.app/emote/01GAZ199Z8000FEWHS6AT5QZV0/1x.webp",
+        "GuitarTime": "https://cdn.7tv.app/emote/01G98V5RFG0001CD052SPS435F/1x.webp",
+        "AlienDance": "https://cdn.7tv.app/emote/01GB2ZJFBG000DTBJYANG8XYFP/1x.webp",
+        "FeelsStrongMan": "https://cdn.7tv.app/emote/01GB4EV0Q800090V9B3D8CGEHV/1x.webp"
+      }
+    }
+  }
+}
