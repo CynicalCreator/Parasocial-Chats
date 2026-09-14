@@ -842,7 +842,6 @@
     "PicardPalm": "https://cdn.betterttv.net/emote/5e3f8e42d736527d5cd2a1c8/3x",
     "PogU": "https://cdn.betterttv.net/emote/5e4e7a1f08b4447d56a92967/3x",
     "BOGGED": "https://cdn.betterttv.net/emote/5e73eefad6581c3724c0c8e5/3x",
-    "catJam": "https://cdn.betterttv.net/emote/5e9b4cdc7e090362f8b0a5c5/3x",
     "peepoShy": "https://cdn.betterttv.net/emote/6183dbf01f8ff7628e6c669b/3x",
     "NODDERS": "https://cdn.betterttv.net/emote/5eadf40074046462f7687d0f/3x",
     "NOPERS": "https://cdn.betterttv.net/emote/5ec39a9db289582eef76f733/3x",
@@ -904,5 +903,19 @@
     "wubbyMAD": "https://static-cdn.jtvnw.net/emoticons/v2/1202095/default/dark/4.0",
     "bootyWigglin": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_517b0b987eff4524b35369ac148d9bf4/default/dark/4.0",
     "wubbyFather": "https://static-cdn.jtvnw.net/emoticons/v2/1394202/default/dark/4.0",
-    "wubbySon": "https://static-cdn.jtvnw.net/emoticons/v2/1394201/default/dark/4.0"
+    "wubbySon": "https://static-cdn.jtvnw.net/emoticons/v2/1394201/default/dark/4.0",
+    "wubbyCat": "https://static-cdn.jtvnw.net/emoticons/v2/1705956/default/dark/4.0",
+    "dixeecFastwave": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d7a72172d2594c05aaab126bca44e886/default/dark/4.0",
+    "dixeecReam": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_23d5d9764f084713ac50d8e140b45009/default/dark/4.0",
+    "wubbyLEFT": "https://static-cdn.jtvnw.net/emoticons/v2/1359872/default/dark/4.0",
+    "wubbyExcite": "https://static-cdn.jtvnw.net/emoticons/v2/1363376/default/dark/4.0",
+    "wubbyRIGHT": "https://static-cdn.jtvnw.net/emoticons/v2/1359870/default/dark/4.0",
+    "wubbyTINYGLASS": "https://static-cdn.jtvnw.net/emoticons/v2/765847/default/dark/4.0",
+    "CheersToThat": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_b308322f860543f78e046294a9614c68/default/dark/4.0",
+    "pykPollyZoom": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_9bbefaeef4dc47feb4f80a7ee3331f18/default/dark/4.0",
+    "wubbyHug": "https://static-cdn.jtvnw.net/emoticons/v2/307187975/default/dark/4.0",
+    "HS18GG": "https://static-cdn.jtvnw.net/emoticons/v2/1338265/default/dark/4.0",
+    "HS18ConcedeLeft": "https://static-cdn.jtvnw.net/emoticons/v2/1338278/default/dark/4.0",
+    "HS18ConcedeRight": "https://static-cdn.jtvnw.net/emoticons/v2/1338279/default/dark/4.0",
+    "SabaPing": "https://static-cdn.jtvnw.net/emoticons/v2/160402/default/dark/4.0"
 }
