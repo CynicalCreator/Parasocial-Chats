@@ -1,8 +1,8 @@
 {
   "vods": {
     "/vods/2026-09-02.3885": {
-      "twitch_chat": "chats/2026-09-02-twitch.json",
-      "kick_chat": "chats/2026-09-02-kick.json",
+      "twitch_chat": "chats/2026-09-02-clean-twitch.json",
+      "kick_chat": "chats/2026-09-02-clean-kick.json",
       "twitch_offset": "2:25:56"
     }
   }
