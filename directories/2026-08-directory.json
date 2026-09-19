@@ -14,6 +14,16 @@
       "twitch_chat": "chats/2026-08-21-clean-twitch.json",
       "kick_chat": "chats/2026-08-21-clean-kick.json",
       "twitch_offset": "0"
+    },
+    "/vods/2026-08-22.3877": {
+      "twitch_chat": "chats/2026-08-22a-clean-twitch.json",
+      "kick_chat": "chats/2026-08-22a-clean-kick.json",
+      "twitch_offset": "0"
+    }
+    "/vods/2026-08-22.3876": {
+      "twitch_chat": "chats/2026-08-22b-clean-twitch.json",
+      "kick_chat": "chats/2026-08-22b-clean-kick.json",
+      "twitch_offset": "0"
     }
   }
 }
