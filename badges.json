@@ -1316,7 +1316,7 @@
   },
   "the-onryos-mask/1": {
     "url": "https://static-cdn.jtvnw.net/badges/v1/e0d21894-8d58-4266-9127-b1bd61177899/2",
-    "title": "The Onryō's Mask"
+    "title": "The Onry\u014d's Mask"
   },
   "rustmas-2025/1": {
     "url": "https://static-cdn.jtvnw.net/badges/v1/5ec1bcd1-82fa-4c42-abf1-be5b64cb63ed/2",
@@ -1333,5 +1333,14 @@
   "sub-gifter/400": {
     "url": "https://static-cdn.jtvnw.net/badges/v1/6f4cab6b-def9-4d99-ad06-90b0013b28c8/2",
     "title": "400 Gift Subs"
+  },
+  "kick_svg_level_51": {
+    "type": "svg",
+    "value": "<svg data-ds-icon=\"Level51\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"_r_45s_\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" class=\"inline-block shrink-0 size-[calc(1em*(18/13))] scale-[1.125]\"><title id=\"_r_45s_\">Level 51</title><path fill=\"url(#ds-icon-5f-72-5f-34-35-73-5f-0)\" d=\"M18.2 13.93V6.07c0-.4-.22-.78-.58-.98l-7.04-3.94c-.36-.2-.8-.2-1.16 0L2.38 5.1c-.36.2-.58.57-.58.98v7.86c0 .4.22.78.58.98l7.04 3.94c.36.2.8.2 1.16 0l7.04-3.94c.36-.2.58-.57.58-.98\"></path><path fill=\"url(#ds-icon-5f-72-5f-34-35-73-5f-1)\" d=\"M9.42 1.15c.36-.2.8-.2 1.16 0l7.04 3.94c.36.2.58.57.58.98v7.9c-.01.4-.23.75-.58.94l-7.04 3.94c-.36.2-.8.2-1.16 0L2.38 14.9c-.36-.2-.58-.57-.58-.98V6.07c0-.4.22-.78.58-.98zm.6.99h-.05L2.93 6.07v7.86l7.04 3.93h.06l7.04-3.93V6.07l-7.04-3.93\"></path><path fill=\"#000\" d=\"M8.12 12.88q-.6 0-1.09-.22a2 2 0 0 1-.75-.6 1.6 1.6 0 0 1-.28-.9h1.3q.02.3.26.5.23.18.56.18a1 1 0 0 0 .45-.1 1 1 0 0 0 .3-.32q.12-.21.11-.47a1 1 0 0 0-.1-.47 1 1 0 0 0-.32-.32 1 1 0 0 0-.91 0 1 1 0 0 0-.33.3l-1.19-.23.24-3.01h3.59V8.3H7.48l-.13 1.31h.04q.14-.23.44-.38.32-.15.71-.15a1.7 1.7 0 0 1 1.52.88q.23.41.23.94 0 .59-.28 1.02-.27.45-.76.7-.48.25-1.13.25m5.48-5.65v5.58h-1.34V8.48h-.03l-1.25.76V8.08l1.38-.86z\"></path><defs><linearGradient id=\"ds-icon-5f-72-5f-34-35-73-5f-0\" x1=\"10\" x2=\"10\" y1=\"1\" y2=\"19\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#6f87ff\"></stop><stop offset=\"1\" stop-color=\"#92a4ff\"></stop></linearGradient><linearGradient id=\"ds-icon-5f-72-5f-34-35-73-5f-1\" x1=\"10\" x2=\"10\" y1=\"1\" y2=\"19\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#91a4ff\"></stop><stop offset=\"1\" stop-color=\"#8196ff\"></stop></linearGradient></defs></svg>",
+    "title": "Level 51"
+  },
+  "sub-gifter/3000": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/b18852ba-65d2-4b84-97d2-aeb6c44a0956/2",
+    "title": "3000 Gift Subs"
   }
 }
