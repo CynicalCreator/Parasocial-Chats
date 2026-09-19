@@ -1407,5 +1407,25 @@
     "type": "svg",
     "value": "<svg data-ds-icon=\"Gift450\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" class=\"inline-block shrink-0 size-[calc(1em*(18/13))] scale-[1.125]\"><path fill=\"#53fc18\" d=\"M17.88 6.63H2.13v10.12h15.75z\"></path><path fill=\"#fbc900\" d=\"M7.75 6.63H6.63L4.38 3.25h4.5L10 4.94l1.13-1.69h4.5l-2.26 3.38h-1.12v10.12h-4.5z\"></path></svg>",
     "title": "Gift450"
+  },
+  "kick_svg_gift250": {
+    "type": "svg",
+    "value": "<svg data-ds-icon=\"Gift250\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" class=\"inline-block shrink-0 size-[calc(1em*(18/13))] scale-[1.125]\"><path fill=\"#deb2ff\" d=\"M17.88 6.63H2.13v10.12h15.75z\"></path><path fill=\"#bc66ff\" d=\"M7.75 6.63H6.63L4.38 3.25h4.5L10 4.94l1.13-1.69h4.5l-2.26 3.38h-1.12v10.12h-4.5z\"></path></svg>",
+    "title": "Gift250"
+  },
+  "kick_svg_gift600": {
+    "type": "svg",
+    "value": "<svg data-ds-icon=\"Gift600\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" class=\"inline-block shrink-0 size-[calc(1em*(18/13))] scale-[1.125]\"><path fill=\"#deb2ff\" d=\"M17.88 10.56H2.13v7.88h15.75zm0-5.62H2.13V8.3h15.75z\"></path><path fill=\"#bc66ff\" d=\"M6.63 4.94h1.4V8.3H3.25v2.25h4.78v7.88h3.94v-7.88h4.78V8.31h-4.78V4.94h1.4l2.26-3.38h-4.5L10 3.25 8.88 1.56h-4.5z\"></path></svg>",
+    "title": "Gift600"
+  },
+  "kick_img_kick_whale": {
+    "type": "img",
+    "value": "https://ext.cdn.kick.com/chat/badges/kick_whale_e2388e11-5aa1-4de3-844a-aa14826cba5d.png",
+    "title": "KICK Whale"
+  },
+  "kick_svg_staffbadge": {
+    "type": "svg",
+    "value": "<svg data-ds-icon=\"StaffBadge\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" class=\"inline-block shrink-0 size-[calc(1em*(18/13))]\"><path fill=\"url(#ds-icon-5f-72-5f-63-76-6b-5f-0)\" fill-rule=\"evenodd\" d=\"M17.88 1C18.5 1 19 1.5 19 2.13v15.75c0 .62-.5 1.12-1.12 1.12H2.13C1.5 19 1 18.5 1 17.88V2.13C1 1.5 1.5 1 2.13 1zM4.38 3.67v12.66H8.6v-2.81H10v1.4h1.4v1.4h4.22v-4.21h-1.4v-1.4h-1.41V9.3h1.41V7.9h1.4V3.66H11.4v1.4H10v1.41H8.6v-2.8z\" clip-rule=\"evenodd\"></path><defs><linearGradient id=\"ds-icon-5f-72-5f-63-76-6b-5f-0\" x1=\"6.06\" x2=\"12.3\" y1=\"20.24\" y2=\"-.28\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#1eff00\"></stop><stop offset=\".99\" stop-color=\"#00ff8c\"></stop></linearGradient></defs></svg>",
+    "title": "StaffBadge"
   }
 }
