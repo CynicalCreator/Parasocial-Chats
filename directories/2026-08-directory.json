@@ -3,6 +3,9 @@
     "/vods/2026-08-18.3872": {
       "kick_chat": "chats/2026-08-18-clean-kick.json"
     },
+    "/vods/2026-08-20.3874": {
+      "kick_chat": "chats/2026-08-20-clean-kick.json"
+    },
     "/vods/2026-08-14.3868": {
       "twitch_chat": "chats/2026-08-14-clean-twitch.json",
       "twitch_offset": "0"
