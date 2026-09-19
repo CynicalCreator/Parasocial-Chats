@@ -1342,5 +1342,20 @@
   "sub-gifter/3000": {
     "url": "https://static-cdn.jtvnw.net/badges/v1/b18852ba-65d2-4b84-97d2-aeb6c44a0956/2",
     "title": "3000 Gift Subs"
+  },
+  "kick_svg_level_46": {
+    "type": "svg",
+    "value": "<svg data-ds-icon=\"Level46\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"_r_5cd_\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" class=\"inline-block shrink-0 size-[calc(1em*(18/13))] scale-[1.125]\"><title id=\"_r_5cd_\">Level 46</title><path fill=\"url(#ds-icon-5f-72-5f-35-63-64-5f-0)\" d=\"M10 17.88A7.93 7.93 0 0 1 2.04 10V4.1c0-1.1.89-1.98 2-1.98h11.93c1.1 0 1.99.88 1.99 1.97V10A7.93 7.93 0 0 1 10 17.88\"></path><path fill=\"url(#ds-icon-5f-72-5f-35-63-64-5f-1)\" d=\"M4.03 3.24V2.12h11.94v1.12zm-.87.85V10A6.8 6.8 0 0 0 10 16.76 6.8 6.8 0 0 0 16.84 10V4.1a.86.86 0 0 0-.87-.86V2.12c1.08 0 1.96.85 1.99 1.92V10A7.93 7.93 0 0 1 10 17.88h-.1A7.93 7.93 0 0 1 2.04 10V4.04c.03-1.05.88-1.9 1.94-1.92h.05v1.12c-.5 0-.87.39-.87.85\"></path><path fill=\"#000\" d=\"M5.16 11.12v-1.04l2.26-3.57h.93v1.42h-.54l-1.32 2.1v.04h3.28v1.05zm2.67.92V10.8l.03-.45V6.5H9.1v5.53zm4.85.07q-.45 0-.87-.14a2 2 0 0 1-1.25-1.32 4 4 0 0 1-.18-1.28q0-.68.17-1.22.15-.55.47-.93a2 2 0 0 1 1.69-.78q.59 0 1.02.23.45.22.71.6.27.38.32.84h-1.32a.6.6 0 0 0-.26-.4 1 1 0 0 0-.47-.13q-.52 0-.76.44-.25.43-.25 1.17h.03q.12-.24.33-.42.2-.18.49-.28t.58-.1q.5 0 .88.24.38.22.6.63.21.39.21.9 0 .59-.27 1.02-.27.45-.75.69t-1.12.24m0-1.02a.84.84 0 0 0 .85-.88 1 1 0 0 0-.11-.45.8.8 0 0 0-.74-.43.8.8 0 0 0-.8.53 1 1 0 0 0 .05.8q.12.2.3.31.2.12.44.12\"></path><defs><linearGradient id=\"ds-icon-5f-72-5f-35-63-64-5f-0\" x1=\"10\" x2=\"10\" y1=\"2.12\" y2=\"17.88\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#01ffaa\"></stop><stop offset=\"1\" stop-color=\"#3effbf\"></stop></linearGradient><linearGradient id=\"ds-icon-5f-72-5f-35-63-64-5f-1\" x1=\"10\" x2=\"10\" y1=\"2.12\" y2=\"17.88\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#3dffbe\"></stop><stop offset=\"1\" stop-color=\"#40cd9d\"></stop></linearGradient></defs></svg>",
+    "title": "Level 46"
+  },
+  "kick_img_20_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "20-Month Subscriber"
+  },
+  "kick_svg_vipbadge": {
+    "type": "svg",
+    "value": "<svg data-ds-icon=\"VIPBadge\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" class=\"inline-block shrink-0 size-[calc(1em*(18/13))]\"><path fill=\"url(#ds-icon-5f-72-5f-37-6d-6e-5f-0)\" fill-rule=\"evenodd\" d=\"M17.88 1C18.5 1 19 1.5 19 2.13v15.75c0 .62-.5 1.12-1.12 1.12H2.13C1.5 19 1 18.5 1 17.88V2.13C1 1.5 1.5 1 2.13 1zm-7.9 2.81a.6.6 0 0 0-.53.32L6.53 9.45 3 7.69a.6.6 0 0 0-.64.07.6.6 0 0 0-.22.62l1.44 6.75q.04.22.21.36a.6.6 0 0 0 .4.13h11.58a.6.6 0 0 0 .38-.13.6.6 0 0 0 .22-.36l1.49-6.75a.6.6 0 0 0-.22-.64.6.6 0 0 0-.65-.06l-3.56 1.77-2.92-5.32a1 1 0 0 0-.23-.23 1 1 0 0 0-.3-.09\" clip-rule=\"evenodd\"></path><path fill=\"url(#ds-icon-5f-72-5f-37-6d-6e-5f-1)\" fill-rule=\"evenodd\" d=\"M17.88 1C18.5 1 19 1.5 19 2.13v15.75c0 .62-.5 1.12-1.12 1.12H2.13C1.5 19 1 18.5 1 17.88V2.13C1 1.5 1.5 1 2.13 1zm-7.9 2.81a.6.6 0 0 0-.53.32L6.53 9.45 3 7.69a.6.6 0 0 0-.64.07.6.6 0 0 0-.22.62l1.44 6.75q.04.22.21.36a.6.6 0 0 0 .4.13h11.58a.6.6 0 0 0 .38-.13.6.6 0 0 0 .22-.36l1.49-6.75a.6.6 0 0 0-.22-.64.6.6 0 0 0-.65-.06l-3.56 1.77-2.92-5.32a1 1 0 0 0-.23-.23 1 1 0 0 0-.3-.09\" clip-rule=\"evenodd\"></path><defs><linearGradient id=\"ds-icon-5f-72-5f-37-6d-6e-5f-0\" x1=\"11.58\" x2=\"2.62\" y1=\"-6.16\" y2=\"23\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#ff6a4a\"></stop><stop offset=\"1\" stop-color=\"#c70c00\"></stop></linearGradient><linearGradient id=\"ds-icon-5f-72-5f-37-6d-6e-5f-1\" x1=\"9.86\" x2=\"10.18\" y1=\"-1.68\" y2=\"22.98\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#ffc900\"></stop><stop offset=\".99\" stop-color=\"#ff9500\"></stop></linearGradient></defs></svg>",
+    "title": "VIPBadge"
   }
 }
