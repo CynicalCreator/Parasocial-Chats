@@ -1263,5 +1263,75 @@
     "type": "svg",
     "value": "<svg data-ds-icon=\"Level2\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"_r_qh_\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" class=\"inline-block shrink-0 size-[calc(1em*(18/13))] scale-[1.125]\"><title id=\"_r_qh_\">Level 2</title><path fill=\"url(#ds-icon-5f-72-5f-71-68-5f-0)\" d=\"M10 16.98a6.98 6.98 0 1 0 0-13.96 6.98 6.98 0 0 0 0 13.96\"></path><path fill=\"url(#ds-icon-5f-72-5f-71-68-5f-1)\" d=\"M16.94 10A6.94 6.94 0 1 0 10 16.94v1.11a8.05 8.05 0 1 1 0-16.1 8.05 8.05 0 0 1 0 16.1v-1.11c3.83 0 6.94-3.1 6.94-6.94\"></path><path fill=\"#000\" d=\"M7.98 12.78v-.96L10 10.05l.39-.38q.15-.17.24-.34a1 1 0 0 0-.02-.78 1 1 0 0 0-.27-.25 1 1 0 0 0-.4-.09 1 1 0 0 0-.4.1 1 1 0 0 0-.28.26 1 1 0 0 0-.1.43H7.9q0-.57.25-.98.26-.4.72-.63t1.07-.22q.63 0 1.1.2.46.22.71.6.27.38.26.87 0 .32-.13.63-.12.3-.45.68t-.93.9l-.66.62v.03h2.24v1.08z\"></path><defs><linearGradient id=\"ds-icon-5f-72-5f-71-68-5f-0\" x1=\"10\" x2=\"10\" y1=\"3.02\" y2=\"16.98\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#dbdbdb\"></stop><stop offset=\"1\" stop-color=\"#e4e4e4\"></stop></linearGradient><linearGradient id=\"ds-icon-5f-72-5f-71-68-5f-1\" x1=\"10\" x2=\"10\" y1=\"1.95\" y2=\"18.05\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#e3e3e3\"></stop><stop offset=\"1\" stop-color=\"#b8b8b8\"></stop></linearGradient></defs></svg>",
     "title": "Level 2"
+  },
+  "kick_svg_gift550": {
+    "type": "svg",
+    "value": "<svg data-ds-icon=\"Gift550\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" class=\"inline-block shrink-0 size-[calc(1em*(18/13))] scale-[1.125]\"><path fill=\"#93ebe0\" d=\"M17.88 10.56H2.13v7.88h15.75zm0-5.62H2.13V8.3h15.75z\"></path><path fill=\"#00ccb3\" d=\"M6.63 4.94h1.4V8.3H3.25v2.25h4.78v7.88h3.94v-7.88h4.78V8.31h-4.78V4.94h1.4l2.26-3.38h-4.5L10 3.25 8.88 1.56h-4.5z\"></path></svg>",
+    "title": "Gift550"
+  },
+  "kick_svg_level_54": {
+    "type": "svg",
+    "value": "<svg data-ds-icon=\"Level54\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"_r_ut_\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" class=\"inline-block shrink-0 size-[calc(1em*(18/13))] scale-[1.125]\"><title id=\"_r_ut_\">Level 54</title><path fill=\"url(#ds-icon-5f-72-5f-75-74-5f-0)\" d=\"M18.2 13.93V6.07c0-.4-.22-.78-.58-.98l-7.04-3.94c-.36-.2-.8-.2-1.16 0L2.38 5.1c-.36.2-.58.57-.58.98v7.86c0 .4.22.78.58.98l7.04 3.94c.36.2.8.2 1.16 0l7.04-3.94c.36-.2.58-.57.58-.98\"></path><path fill=\"url(#ds-icon-5f-72-5f-75-74-5f-1)\" d=\"M9.42 1.15c.36-.2.8-.2 1.16 0l7.04 3.94c.36.2.58.57.58.98v7.9c-.01.4-.23.75-.58.94l-7.04 3.94c-.36.2-.8.2-1.16 0L2.38 14.9c-.36-.2-.58-.57-.58-.98V6.07c0-.4.22-.78.58-.98zm.6.99h-.05L2.93 6.07v7.86l7.04 3.93h.06l7.04-3.93V6.07l-7.04-3.93\"></path><path fill=\"#000\" d=\"M7.38 12.88q-.6 0-1.09-.22a2 2 0 0 1-.75-.6 1.6 1.6 0 0 1-.28-.9h1.3q.02.3.26.5.23.18.56.18a1 1 0 0 0 .45-.1 1 1 0 0 0 .3-.32q.12-.21.12-.47a1 1 0 0 0-.12-.47 1 1 0 0 0-.3-.32 1 1 0 0 0-.91 0 1 1 0 0 0-.34.3l-1.19-.23.24-3.01h3.59V8.3H6.74l-.12 1.31h.03q.14-.23.45-.38.3-.15.7-.15a1.7 1.7 0 0 1 1.52.88q.23.41.23.94 0 .59-.28 1.02-.27.45-.75.7-.49.25-1.14.25m2.84-.99v-1.06l2.29-3.6h.93v1.43h-.54l-1.34 2.12v.04h3.31v1.07zm2.7.92v-1.24l.02-.47V7.22h1.27v5.58z\"></path><defs><linearGradient id=\"ds-icon-5f-72-5f-75-74-5f-0\" x1=\"10\" x2=\"10\" y1=\"1\" y2=\"19\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#6f87ff\"></stop><stop offset=\"1\" stop-color=\"#92a4ff\"></stop></linearGradient><linearGradient id=\"ds-icon-5f-72-5f-75-74-5f-1\" x1=\"10\" x2=\"10\" y1=\"1\" y2=\"19\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#91a4ff\"></stop><stop offset=\"1\" stop-color=\"#8196ff\"></stop></linearGradient></defs></svg>",
+    "title": "Level 54"
+  },
+  "sub-gifter/5000": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/d775275d-fd19-4914-b63a-7928a22135c3/2",
+    "title": "5000 Gift Subs"
+  },
+  "clips-leader/2": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/9eddf7ab-aa46-4798-abe2-710db1043254/2",
+    "title": "Clips Leader 2"
+  },
+  "jubilee/1": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/9722b4f6-c818-4f7c-8cc3-c22c70d00c53/2",
+    "title": "Jubilee"
+  },
+  "zevent-2024/1": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/2040d479-b815-4617-8a55-9aed027e30d0/2",
+    "title": "ZEVENT 2024"
+  },
+  "fischer/1": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/50488ced-e1ee-4ea4-bb44-fb60d7d396c2/2",
+    "title": "Fischer"
+  },
+  "brawlhallawoo/1": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/a3e4f5e7-a6c9-4458-b8c4-f83a0f725566/2",
+    "title": "BrawlhallAwoo"
+  },
+  "sub-gifter/500": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/60e9504c-8c3d-489f-8a74-314fb195ad8d/2",
+    "title": "500 Gift Subs"
+  },
+  "dead-by-daylight-pride-icon/1": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/61aac75c-fb98-4f75-9fa8-4d843c5c545a/2",
+    "title": "Dead by Daylight Pride icon"
+  },
+  "kodama/1": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/374ef606-cf25-475e-994b-f7d36b8acd43/2",
+    "title": "Kodama"
+  },
+  "lol-worlds-2025/1": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/4545b0b5-c825-487e-8958-ce5512eb6f84/2",
+    "title": "LoL Worlds 2025"
+  },
+  "the-onryos-mask/1": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/e0d21894-8d58-4266-9127-b1bd61177899/2",
+    "title": "The Onryō's Mask"
+  },
+  "rustmas-2025/1": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/5ec1bcd1-82fa-4c42-abf1-be5b64cb63ed/2",
+    "title": "Rustmas 2025"
+  },
+  "overwatch-league-insider_2018B/1": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/34ec1979-d9bb-4706-ad15-464de814a79d/2",
+    "title": "OWL All-Access Pass 2018"
+  },
+  "evo-las-vegas-2026/1": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/6838631a-037c-4dc3-b0f5-1cc15367bd53/2",
+    "title": "Evo Las Vegas 2026"
+  },
+  "sub-gifter/400": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/6f4cab6b-def9-4d99-ad06-90b0013b28c8/2",
+    "title": "400 Gift Subs"
   }
 }
