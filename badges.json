@@ -1176,8 +1176,8 @@
     "title": "2000 Gift Subs"
   },
   "touch-grass/1": {
-    "url": "Touch Grass",
-    "title": "https://static-cdn.jtvnw.net/badges/v1/51f536c1-96ca-495b-bc11-150c857a6d54/2"
+    "url": "Touch Grasshttps://static-cdn.jtvnw.net/badges/v1/51f536c1-96ca-495b-bc11-150c857a6d54/2",
+    "title": "Touch Grass"
   },
   "perlica/1": {
     "url": "https://static-cdn.jtvnw.net/badges/v1/c81d6782-6f5a-4c63-a00b-f041ac2cdcda/2",
@@ -1357,5 +1357,45 @@
     "type": "svg",
     "value": "<svg data-ds-icon=\"VIPBadge\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" class=\"inline-block shrink-0 size-[calc(1em*(18/13))]\"><path fill=\"url(#ds-icon-5f-72-5f-37-6d-6e-5f-0)\" fill-rule=\"evenodd\" d=\"M17.88 1C18.5 1 19 1.5 19 2.13v15.75c0 .62-.5 1.12-1.12 1.12H2.13C1.5 19 1 18.5 1 17.88V2.13C1 1.5 1.5 1 2.13 1zm-7.9 2.81a.6.6 0 0 0-.53.32L6.53 9.45 3 7.69a.6.6 0 0 0-.64.07.6.6 0 0 0-.22.62l1.44 6.75q.04.22.21.36a.6.6 0 0 0 .4.13h11.58a.6.6 0 0 0 .38-.13.6.6 0 0 0 .22-.36l1.49-6.75a.6.6 0 0 0-.22-.64.6.6 0 0 0-.65-.06l-3.56 1.77-2.92-5.32a1 1 0 0 0-.23-.23 1 1 0 0 0-.3-.09\" clip-rule=\"evenodd\"></path><path fill=\"url(#ds-icon-5f-72-5f-37-6d-6e-5f-1)\" fill-rule=\"evenodd\" d=\"M17.88 1C18.5 1 19 1.5 19 2.13v15.75c0 .62-.5 1.12-1.12 1.12H2.13C1.5 19 1 18.5 1 17.88V2.13C1 1.5 1.5 1 2.13 1zm-7.9 2.81a.6.6 0 0 0-.53.32L6.53 9.45 3 7.69a.6.6 0 0 0-.64.07.6.6 0 0 0-.22.62l1.44 6.75q.04.22.21.36a.6.6 0 0 0 .4.13h11.58a.6.6 0 0 0 .38-.13.6.6 0 0 0 .22-.36l1.49-6.75a.6.6 0 0 0-.22-.64.6.6 0 0 0-.65-.06l-3.56 1.77-2.92-5.32a1 1 0 0 0-.23-.23 1 1 0 0 0-.3-.09\" clip-rule=\"evenodd\"></path><defs><linearGradient id=\"ds-icon-5f-72-5f-37-6d-6e-5f-0\" x1=\"11.58\" x2=\"2.62\" y1=\"-6.16\" y2=\"23\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#ff6a4a\"></stop><stop offset=\"1\" stop-color=\"#c70c00\"></stop></linearGradient><linearGradient id=\"ds-icon-5f-72-5f-37-6d-6e-5f-1\" x1=\"9.86\" x2=\"10.18\" y1=\"-1.68\" y2=\"22.98\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#ffc900\"></stop><stop offset=\".99\" stop-color=\"#ff9500\"></stop></linearGradient></defs></svg>",
     "title": "VIPBadge"
+  },
+  "cuphead_1/1": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/4384659a-a2e3-11e7-a564-87f6b1288bab/3",
+    "title": "Cuphead"
+  },
+  "2026-bafta-games-awards/1": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/44244be0-bb62-470c-bb0f-d2f6fcac2864/3",
+    "title": "2026 BAFTA Games Awards"
+  },
+  "ayane/1": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/471b7cc9-875f-445b-86f6-8009cee27843/3",
+    "title": "Ayane"
+  },
+  "egg/1": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/74c777c3-715f-4c40-b991-6a36239e6ef0/3",
+    "title": "Egg"
+  },
+  "clips-leader/3": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/fb838633-6ff6-46df-98b4-9e53fcff84f6/3",
+    "title": "Clips Leader 3"
+  },
+  "streamer-awards-2024/1": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/efc07d3d-46e4-4738-827b-a5bf3508983a/3",
+    "title": "Streamer Awards 2024"
+  },
+  "bits-leader/2": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/f04baac7-9141-4456-a0e7-6301bcc34138/3",
+    "title": "Bits Leader 2"
+  },
+  "sub-gifter/900": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/193d86f6-83e1-428c-9638-d6ca9e408166/3",
+    "title": "900 Gift Subs"
+  },
+  "predictions/blue-1": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/e33d8b46-f63b-4e67-996d-4a7dcec0ad33/3",
+    "title": "Predicted Blue (1)"
+  },
+  "predictions/pink-2": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/4b76d5f2-91cc-4400-adf2-908a1e6cfd1e/3",
+    "title": "Predicted Pink (2)"
   }
 }
