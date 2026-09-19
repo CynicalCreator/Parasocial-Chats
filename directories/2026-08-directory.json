@@ -32,6 +32,9 @@
       "twitch_chat": "chats/2026-08-28-clean-twitch.json",
       "kick_chat": "chats/2026-08-28-clean-kick.json",
       "twitch_offset": "10303"
+    },
+    "/vods/2026-08-29.3880": {
+      "kick_chat": "chats/2026-08-29-clean-kick.json"
     }
   }
 }
