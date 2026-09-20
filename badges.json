@@ -1437,5 +1437,33 @@
     "type": "svg",
     "value": "<svg data-ds-icon=\"Level47\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"_r_i9a_\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" class=\"inline-block shrink-0 size-[calc(1em*(18/13))] scale-[1.125]\"><title id=\"_r_i9a_\">Level 47</title><path fill=\"url(#ds-icon-5f-72-5f-69-39-61-5f-0)\" d=\"M10 17.88A7.93 7.93 0 0 1 2.04 10V4.1c0-1.1.89-1.98 2-1.98h11.93c1.1 0 1.99.88 1.99 1.97V10A7.93 7.93 0 0 1 10 17.88\"></path><path fill=\"url(#ds-icon-5f-72-5f-69-39-61-5f-1)\" d=\"M4.03 3.24V2.12h11.94v1.12zm-.87.85V10A6.8 6.8 0 0 0 10 16.76 6.8 6.8 0 0 0 16.84 10V4.1a.86.86 0 0 0-.87-.86V2.12c1.08 0 1.96.85 1.99 1.92V10A7.93 7.93 0 0 1 10 17.88h-.1A7.93 7.93 0 0 1 2.04 10V4.04c.03-1.05.88-1.9 1.94-1.92h.05v1.12c-.5 0-.87.39-.87.85\"></path><path fill=\"#000\" d=\"M5.42 11.12v-1.04l2.26-3.57h.93v1.42h-.54l-1.33 2.1v.04h3.28v1.05zm2.66.92V10.8l.03-.45V6.5h1.25v5.53zm2.88 0 2.22-4.41v-.04h-2.6V6.51h3.99V7.6l-2.24 4.44z\"></path><defs><linearGradient id=\"ds-icon-5f-72-5f-69-39-61-5f-0\" x1=\"10\" x2=\"10\" y1=\"2.12\" y2=\"17.88\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#01ffaa\"></stop><stop offset=\"1\" stop-color=\"#3effbf\"></stop></linearGradient><linearGradient id=\"ds-icon-5f-72-5f-69-39-61-5f-1\" x1=\"10\" x2=\"10\" y1=\"2.12\" y2=\"17.88\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#3dffbe\"></stop><stop offset=\"1\" stop-color=\"#40cd9d\"></stop></linearGradient></defs></svg>",
     "title": "Level 47"
+  },
+  "the-blood-of-dawnwalker-launch/1": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/1c04ddd1-6baa-4e5c-a685-976c621d5114/3",
+    "title": "The Blood of Dawnwalker Launch"
+  },
+  "bits-leader/3": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/f1d2aab6-b647-47af-965b-84909cf303aa/3",
+    "title": "Bits Leader 3"
+  },
+  "zevent-2026/1": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/daea9c61-566f-41da-9b0a-1c520faf5c01/3",
+    "title": "ZEVENT 2026"
+  },
+  "detroit-blue-led/1": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/b3cc4258-07e4-4b3b-b37f-a9c9268853fb/3",
+    "title": "Detroit Blue LED"
+  },
+  "sorcerer-rogier-elden-ring/1": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/3d6ad3b0-0a0f-43ae-a969-c5215d8d5a06/3",
+    "title": "Sorcerer Rogier ELDEN RING"
+  },
+  "wardog/1": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/a00140ee-7c25-4cd1-95d9-54b9603f1f80/3",
+    "title": "WARDOG"
+  },
+  "warlord/1": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/233322a6-0c31-43e7-acfa-f10e732e87da/3",
+    "title": "WARLORD"
   }
 }
