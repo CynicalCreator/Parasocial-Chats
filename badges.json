@@ -1465,34 +1465,5 @@
   "warlord/1": {
     "url": "https://static-cdn.jtvnw.net/badges/v1/233322a6-0c31-43e7-acfa-f10e732e87da/3",
     "title": "WARLORD"
-  },
-  "kick_svg_gift650": {
-    "type": "svg",
-    "value": "<svg data-ds-icon=\"Gift650\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" class=\"inline-block shrink-0 size-[calc(1em*(18/13))] scale-[1.125]\"><path fill=\"#fbcfd8\" d=\"M17.88 10.56H2.13v7.88h15.75zm0-5.62H2.13V8.3h15.75z\"></path><path fill=\"#f2708a\" d=\"M6.63 4.94h1.4V8.3H3.25v2.25h4.78v7.88h3.94v-7.88h4.78V8.31h-4.78V4.94h1.4l2.26-3.38h-4.5L10 3.25 8.88 1.56h-4.5z\"></path></svg>",
-    "title": "Gift650"
-  },
-  "subtember-2026/1": {
-    "url": "https://static-cdn.jtvnw.net/badges/v1/6ae639f0-a06d-40a9-ad16-7b7e7c18a323/3",
-    "title": "SUBtember 2026"
-  },
-  "nopixel-v-launch/1": {
-    "https://static-cdn.jtvnw.net/badges/v1/6a34b65f-93f6-4ebd-8f75-898bdaff79e8/3",
-    "title": "nopixel V Launch"
-  },
-  "onimusha-armament/1": {
-    "url": "https://static-cdn.jtvnw.net/badges/v1/379bfc94-8276-4e9e-9a34-615e10c55baf/3",
-    "title": "Onimusha Armament"
-  },
-  "legendus/1": {
-    "url": "https://static-cdn.jtvnw.net/badges/v1/55c355cf-ddbf-4f12-8369-6554a1f78b6f/3",
-    "title": "LEGENDUS"
-  },
-  "hotline/1": {
-    "url": "https://static-cdn.jtvnw.net/badges/v1/31d7dfb0-2687-486c-a3f4-b86d1e307fa5/3",
-    "title": "Hotline"
-  },
-  "borderlands-4-badge---ripper/1": {
-    "url": "https://static-cdn.jtvnw.net/badges/v1/098219cb-48d8-4945-96a6-80594c7a90dd/3",
-    "title": "Borderlands 4 Badge - Ripper"
   }
 }
