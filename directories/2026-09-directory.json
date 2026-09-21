@@ -22,6 +22,9 @@
     "/vods/2026-09-06.3890": {
       "kick_chat": "chats/2026-09-06-clean-kick.json"
     },
+    "/vods/2026-09-08.3891": {
+      "kick_chat": "chats/2026-09-08-clean-kick.json"
+    },
     "/vods/2026-09-09.3892": {
       "twitch_chat": "chats/2026-09-09-clean-twitch.json",
       "kick_chat": "chats/2026-09-09-clean-kick.json",
