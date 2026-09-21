@@ -1509,5 +1509,244 @@
     "type": "svg",
     "value": "<svg data-ds-icon=\"Level50\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"_r_f47_\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" class=\"inline-block shrink-0 size-[calc(1em*(18/13))] scale-[1.125]\"><title id=\"_r_f47_\">Level 50</title><path fill=\"url(#ds-icon-5f-72-5f-66-34-37-5f-0)\" d=\"M18.2 13.93V6.07c0-.4-.22-.78-.58-.98l-7.04-3.94c-.36-.2-.8-.2-1.16 0L2.38 5.1c-.36.2-.58.57-.58.98v7.86c0 .4.22.78.58.98l7.04 3.94c.36.2.8.2 1.16 0l7.04-3.94c.36-.2.58-.57.58-.98\"></path><path fill=\"url(#ds-icon-5f-72-5f-66-34-37-5f-1)\" d=\"M9.42 1.15c.36-.2.8-.2 1.16 0l7.04 3.94c.36.2.58.57.58.98v7.9c-.01.4-.23.75-.58.94l-7.04 3.94c-.36.2-.8.2-1.16 0L2.38 14.9c-.36-.2-.58-.57-.58-.98V6.07c0-.4.22-.78.58-.98zm.6.99h-.05L2.93 6.07v7.86l7.04 3.93h.06l7.04-3.93V6.07l-7.04-3.93\"></path><path fill=\"#000\" d=\"M7.3 12.88q-.6 0-1.08-.22a2 2 0 0 1-.75-.6 1.6 1.6 0 0 1-.28-.9h1.3q.02.3.26.5.23.18.55.18a1 1 0 0 0 .45-.1 1 1 0 0 0 .31-.32q.11-.21.11-.47a1 1 0 0 0-.11-.47 1 1 0 0 0-.31-.32 1 1 0 0 0-.91 0 1 1 0 0 0-.33.3l-1.2-.23.25-3.01h3.58V8.3H6.67l-.13 1.31h.03q.15-.23.45-.38t.7-.15a1.7 1.7 0 0 1 1.52.88q.23.41.23.94 0 .59-.27 1.02-.27.45-.76.7-.48.25-1.14.25m5.22.07q-.72 0-1.26-.35a2.2 2.2 0 0 1-.81-1q-.3-.65-.29-1.57 0-.91.29-1.56.3-.65.81-.98.54-.33 1.26-.34.74 0 1.26.34.54.33.82.98.3.64.28 1.56 0 .92-.28 1.58-.29.65-.82 1t-1.26.34m0-1.1q.45 0 .7-.45.28-.45.28-1.37 0-.6-.13-1-.12-.4-.34-.59a.7.7 0 0 0-.5-.2q-.45 0-.7.45-.28.44-.28 1.34 0 .6.12 1.02.13.4.34.6t.51.2\"></path><defs><linearGradient id=\"ds-icon-5f-72-5f-66-34-37-5f-0\" x1=\"10\" x2=\"10\" y1=\"1\" y2=\"19\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#6f87ff\"></stop><stop offset=\"1\" stop-color=\"#92a4ff\"></stop></linearGradient><linearGradient id=\"ds-icon-5f-72-5f-66-34-37-5f-1\" x1=\"10\" x2=\"10\" y1=\"1\" y2=\"19\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#91a4ff\"></stop><stop offset=\"1\" stop-color=\"#8196ff\"></stop></linearGradient></defs></svg>",
     "title": "Level 50"
+  },
+  "kick_img_59_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "59-Month Subscriber"
+  },
+  "kick_img_25_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "25-Month Subscriber"
+  },
+  "kick_img_47_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "47-Month Subscriber"
+  },
+  "kick_img_34_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "34-Month Subscriber"
+  },
+  "kick_img_39_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "39-Month Subscriber"
+  },
+  "kick_img_22_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "22-Month Subscriber"
+  },
+  "kick_img_50_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "50-Month Subscriber"
+  },
+  "kick_img_48_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "48-Month Subscriber"
+  },
+  "kick_img_23_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "23-Month Subscriber"
+  },
+  "kick_img_26_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "26-Month Subscriber"
+  },
+  "kick_img_27_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "27-Month Subscriber"
+  },
+  "kick_img_51_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "51-Month Subscriber"
+  },
+  "kick_img_32_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "32-Month Subscriber"
+  },
+  "kick_img_54_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "54-Month Subscriber"
+  },
+  "kick_img_24_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "24-Month Subscriber"
+  },
+  "kick_img_63_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "63-Month Subscriber"
+  },
+  "kick_img_56_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "56-Month Subscriber"
+  },
+  "kick_img_30_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "30-Month Subscriber"
+  },
+  "kick_img_36_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "36-Month Subscriber"
+  },
+  "kick_img_41_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "41-Month Subscriber"
+  },
+  "kick_img_58_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "58-Month Subscriber"
+  },
+  "kick_img_31_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "31-Month Subscriber"
+  },
+  "kick_img_37_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "37-Month Subscriber"
+  },
+  "kick_img_21_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "21-Month Subscriber"
+  },
+  "kick_img_33_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "33-Month Subscriber"
+  },
+  "kick_img_65_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "65-Month Subscriber"
+  },
+  "kick_img_29_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "29-Month Subscriber"
+  },
+  "kick_img_44_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "44-Month Subscriber"
+  },
+  "kick_img_60_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "60-Month Subscriber"
+  },
+  "kick_img_28_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "28-Month Subscriber"
+  },
+  "kick_img_78_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "78-Month Subscriber"
+  },
+  "kick_img_46_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "46-Month Subscriber"
+  },
+  "kick_img_55_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "55-Month Subscriber"
+  },
+  "kick_img_52_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "52-Month Subscriber"
+  },
+  "kick_img_35_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "35-Month Subscriber"
+  },
+  "kick_img_73_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "73-Month Subscriber"
+  },
+  "kick_img_45_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "45-Month Subscriber"
+  },
+  "kick_img_42_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "42-Month Subscriber"
+  },
+  "kick_img_66_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "66-Month Subscriber"
+  },
+  "kick_svg_level_59": {
+    "type": "svg",
+    "value": "<svg data-ds-icon=\"Level59\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"_r_g95_\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" class=\"inline-block shrink-0 size-[calc(1em*(18/13))] scale-[1.125]\"><title id=\"_r_g95_\">Level 59</title><path fill=\"url(#ds-icon-5f-72-5f-67-39-35-5f-0)\" d=\"M18.2 13.93V6.07c0-.4-.22-.78-.58-.98l-7.04-3.94c-.36-.2-.8-.2-1.16 0L2.38 5.1c-.36.2-.58.57-.58.98v7.86c0 .4.22.78.58.98l7.04 3.94c.36.2.8.2 1.16 0l7.04-3.94c.36-.2.58-.57.58-.98\"></path><path fill=\"url(#ds-icon-5f-72-5f-67-39-35-5f-1)\" d=\"M9.42 1.15c.36-.2.8-.2 1.16 0l7.04 3.94c.36.2.58.57.58.98v7.9c-.01.4-.23.75-.58.94l-7.04 3.94c-.36.2-.8.2-1.16 0L2.38 14.9c-.36-.2-.58-.57-.58-.98V6.07c0-.4.22-.78.58-.98zm.6.99h-.05L2.93 6.07v7.86l7.04 3.93h.06l7.04-3.93V6.07l-7.04-3.93\"></path><path fill=\"#000\" d=\"M7.44 12.88q-.6 0-1.08-.22a2 2 0 0 1-.75-.6 1.6 1.6 0 0 1-.29-.9h1.31q.02.3.25.5.24.18.56.18a1 1 0 0 0 .45-.1 1 1 0 0 0 .31-.32q.11-.21.11-.47a1 1 0 0 0-.11-.47 1 1 0 0 0-.31-.32 1 1 0 0 0-.91 0 1 1 0 0 0-.33.3l-1.2-.23.25-3.01h3.58V8.3H6.81l-.13 1.31h.03q.14-.23.45-.38.3-.15.7-.15a1.7 1.7 0 0 1 1.52.88q.23.41.23.94 0 .59-.27 1.02-.27.45-.76.7-.48.25-1.14.25m5.01-5.73q.46 0 .88.15t.74.47q.34.33.52.85.19.53.19 1.29 0 .7-.17 1.25-.16.55-.47.94a2 2 0 0 1-1.71.79q-.6 0-1.04-.23-.45-.22-.72-.61a2 2 0 0 1-.32-.87h1.33q.06.29.26.42.2.14.49.14.52 0 .76-.44.26-.45.26-1.21h-.04q-.11.24-.33.43-.2.18-.5.27a1.8 1.8 0 0 1-1.47-.13 1.6 1.6 0 0 1-.6-.63 2 2 0 0 1-.22-.92q0-.57.27-1.02.28-.44.76-.69.49-.25 1.13-.25m.01 1.04a.85.85 0 0 0-.86.88q0 .25.11.45t.3.31.45.12a.86.86 0 0 0 .86-.88 1 1 0 0 0-.11-.44.8.8 0 0 0-.75-.44\"></path><defs><linearGradient id=\"ds-icon-5f-72-5f-67-39-35-5f-0\" x1=\"10\" x2=\"10\" y1=\"1\" y2=\"19\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#6f87ff\"></stop><stop offset=\"1\" stop-color=\"#92a4ff\"></stop></linearGradient><linearGradient id=\"ds-icon-5f-72-5f-67-39-35-5f-1\" x1=\"10\" x2=\"10\" y1=\"1\" y2=\"19\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#91a4ff\"></stop><stop offset=\"1\" stop-color=\"#8196ff\"></stop></linearGradient></defs></svg>",
+    "title": "Level 59"
+  },
+  "kick_img_57_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "57-Month Subscriber"
+  },
+  "kick_img_40_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "40-Month Subscriber"
+  },
+  "kick_img_38_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "38-Month Subscriber"
+  },
+  "kick_img_43_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "43-Month Subscriber"
+  },
+  "kick_img_69_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "69-Month Subscriber"
+  },
+  "kick_img_72_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "72-Month Subscriber"
+  },
+  "kick_img_49_month_subscriber": {
+    "type": "img",
+    "value": "https://files.kick.com/channel_subscriber_badges/398435/conversion/original-fullsize.png",
+    "title": "49-Month Subscriber"
+  },
+  "hime/1": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/20098028-701d-49c5-a5b6-22763ce23dd9/3",
+    "title": "Hime"
   }
 }
