@@ -45,6 +45,29 @@
       "twitch_chat": "chats/2026-09-13-clean-twitch.json",
       "kick_chat": "chats/2026-09-13-clean-kick.json",
       "twitch_offset": "2:19:35"
+    },
+    "/vods/2026-09-14.3898": {
+      "kick_chat": "chats/2026-09-14-clean-kick.json"
+    },
+    "/vods/2026-09-15.3899": {
+      "kick_chat": "chats/2026-09-15-clean-kick.json"
+    },
+    "/vods/2026-09-16.3900": {
+      "twitch_chat": "chats/2026-09-16-a-clean-twitch.json",
+      "kick_chat": "chats/2026-09-16-clean-kick.json",
+      "twitch_offset": "2:17:34"
+    },
+    "/vods/2026-09-16.3901": {
+      "twitch_chat": "chats/2026-09-16-b-clean-twitch.json",
+      "twitch_offset": "0"
+    }
+    "/vods/2026-09-16.3902": {
+      "twitch_chat": "chats/2026-09-16-c-clean-twitch.json",
+      "twitch_offset": "0"
+    }
+    "/vods/2026-09-16.3903": {
+      "twitch_chat": "chats/2026-09-16-d-clean-twitch.json",
+      "twitch_offset": "0"
     }
   }
 }
