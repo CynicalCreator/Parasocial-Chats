@@ -1753,5 +1753,9 @@
     "type": "svg",
     "value": "<svg data-ds-icon=\"Gift400\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" class=\"inline-block shrink-0 size-[calc(1em*(18/13))] scale-[1.125]\"><path fill=\"#53fc18\" d=\"M17.88 6.63H2.13v10.12h15.75z\"></path><path fill=\"#bc66ff\" d=\"M7.75 6.63H6.63L4.38 3.25h4.5L10 4.94l1.13-1.69h4.5l-2.26 3.38h-1.12v10.12h-4.5z\"></path></svg>",
     "title": "Gift400"
+  },
+  "the-blood-of-dawnwalker-supporter/1": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/63076299-4910-4594-a05c-60899d32c765/3",
+    "title": "The Blood of Dawnwalker Supporter"
   }
 }
