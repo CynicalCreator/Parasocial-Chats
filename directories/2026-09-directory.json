@@ -80,7 +80,7 @@
     "/vods/2026-09-18.3907": {
       "twitch_chat": "chats/2026-09-18-b-clean-twitch.json",
       "kick_chat": "chats/2026-09-18-b-clean-kick.json",
-      "twitch_offset": "0"
+      "twitch_offset": "-3"
     },
     "/vods/2026-09-19.3908": {
       "kick_chat": "chats/2026-09-19-clean-kick.json"
