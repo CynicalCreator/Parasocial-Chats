@@ -126,15 +126,19 @@
     "/vods/2026-09-26.3917": {
       "twitch_chat": "chats/2026-09-26-clean-twitch.json",
       "kick_chat": "chats/2026-09-26-clean-kick.json",
-      "twitch_offset": "0"
+      "twitch_offset": "-15625",
+      "kick_offset": "-15557"
     },
     "/vods/2026-09-26.3918": {
       "twitch_chat": "chats/2026-09-26-clean-twitch.json",
       "kick_chat": "chats/2026-09-26-clean-kick.json",
-      "twitch_offset": "0"
+      "twitch_offset": "-19310",
+      "kick_offset": "-19242"
     },
     "/vods/2026-09-26.3919": {
-      "kick_chat": "chats/2026-09-26-clean-kick.json"
+      "kick_chat": "chats/2026-09-26-clean-kick.json",
+      "twitch_offset": "0",
+      "kick_offset": "-22427"
     }
   }
 }
