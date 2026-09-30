@@ -1875,5 +1875,17 @@
   "marvels-wolverine/1": {
     "url": "https://static-cdn.jtvnw.net/badges/v1/55090800-82e4-4d31-8b3c-f9feb5e25557/3",
     "title": "Marvel's Wolverine"
+  },
+  "kick_img_dedsafionutria": {
+    "type": "img",
+    "value": "https://ext.cdn.kick.com/chat/badges/DEDsafioNutria_01a0cbff-5134-75df-9dd4-8b073e36da21.png?width=72,format=webp,quality=50",
+    "title": "DEDsafioNutria"
+  },
+  "ace-combat-8-nugget/1": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/8468fb6c-1d33-4482-85ef-fa1898288ee2/3",
+    "title": "ACE COMBAT 8 Nugget"
+  },  "aang/1": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/dfc8243b-037c-4e5e-a8f3-87ad1f01850d/3",
+    "title": "Aang"
   }
 }

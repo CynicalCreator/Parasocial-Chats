@@ -150,6 +150,12 @@
       "kick_chat": "chats/2026-09-28-clean-kick.json",
       "twitch_offset": "0",
       "kick_offset": "132"
+    },
+    "/vods/2026-09-29.3922": {
+      "twitch_chat": "chats/2026-09-29-clean-twitch.json",
+      "kick_chat": "chats/2026-09-29-clean-kick.json",
+      "twitch_offset": "181",
+      "kick_offset": "181"
     }
   }
 }
