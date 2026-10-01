@@ -1884,8 +1884,13 @@
   "ace-combat-8-nugget/1": {
     "url": "https://static-cdn.jtvnw.net/badges/v1/8468fb6c-1d33-4482-85ef-fa1898288ee2/3",
     "title": "ACE COMBAT 8 Nugget"
-  },  "aang/1": {
+  },
+  "aang/1": {
     "url": "https://static-cdn.jtvnw.net/badges/v1/dfc8243b-037c-4e5e-a8f3-87ad1f01850d/3",
     "title": "Aang"
+  },
+  "big-walk/1": {
+    "url": "https://static-cdn.jtvnw.net/badges/v1/3de5a89b-533b-483a-8db2-036f9f13b9bd/3",
+    "title": "Big Walk"
   }
 }
