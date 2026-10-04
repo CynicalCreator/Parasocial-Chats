@@ -1,0 +1,10 @@
+{
+  "vods": {
+    "/vods/2026-10-01.3924": {
+      "twitch_chat": null,
+      "kick_chat": "chats/2026-10-01-clean-kick.json",
+      "twitch_offset": null,
+      "kick_offset": "-6"
+    }
+  }
+}

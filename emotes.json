@@ -808,10 +808,7 @@
   "Bee": "https://cdn.7tv.app/emote/01HG66VHJG000FQES47G6QNWRC/4x.webp",
   "7:07:27": "https://cdn.7tv.app/emote/01KRQ60RZVWD4919803BMVJY4E/4x.webp",
   "Looking": "https://cdn.7tv.app/emote/01FVDREGVG000BN8E88P3P54F2/4x.webp",
-  "OOOO": {
-    "twitch": "https://cdn.7tv.app/emote/01GB4PT9NG000DGEZ8VYY59RSM/4x.webp",
-    "kick": "https://files.kick.com/emotes/37229/fullsize"
-  },
+  "OOOO": "https://files.kick.com/emotes/37229/fullsize",
   "HOLD": "https://cdn.7tv.app/emote/01HKQ8X1ER000AQTHA9QZB8FME/4x.webp",
   "1G": "https://cdn.7tv.app/emote/01FT2V3VWG000CS587T97X9K8Q/4x.webp",
   "Cinema": "https://cdn.7tv.app/emote/01GBFDVP18000CRDCG0DV7KEMY/4x.webp",
@@ -4243,5 +4240,17 @@
   "hyvgBlood": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_38e81fe5a60b4ec69a5ef739b4801191/default/dark/4.0",
   "neffBloodGod": "https://static-cdn.jtvnw.net/emoticons/v2/303714244/default/dark/4.0",
   "extrap9NOTED": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_8faaa5632e644ac6af15474f04f3f576/default/dark/4.0",
-  "eleano236BATLURK": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_38873921143947db890328b23c659065/default/dark/4.0"
+  "eleano236BATLURK": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_38873921143947db890328b23c659065/default/dark/4.0",
+  "thehealingwhisperer6": "https://files.kick.com/emotes/5516983/fullsize",
+  "thehealingwhisperer7": "https://files.kick.com/emotes/5516985/fullsize",
+  "thehealingwhisperermeow1": "https://files.kick.com/emotes/4057074/fullsize",
+  "thehealingwhisperermeow3": "https://files.kick.com/emotes/4057080/fullsize",
+  "slashleytvcatheartfart": "https://files.kick.com/emotes/4237763/fullsize",
+  "destinyCharm": "https://files.kick.com/emotes/1574826/fullsize",
+  "channel404newsBAXTER": "https://files.kick.com/emotes/5713348/fullsize",
+  "theburntpeanutLetsRide": "https://files.kick.com/emotes/3786575/fullsize",
+  "rawrmoxieBleh": "https://files.kick.com/emotes/6054752/fullsize",
+  "chrisamPOGGIES": "https://files.kick.com/emotes/649288/fullsize",
+  "aosabiAaAa": "https://files.kick.com/emotes/4673958/fullsize",
+  "viciluckypepecheer": "https://files.kick.com/emotes/4992102/fullsize"
 }
